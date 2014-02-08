@@ -5,7 +5,7 @@ auto main ( ) -> int
 {
 	std::cout
 	<< "# 彼女募集" << std::endl
-	<< "==================" << std::endl
+	<< std::endl
 	<< "## 募集の背景" << std::endl
 	<< "" << std::endl
 	<< "楽しく話せ  " << std::endl
